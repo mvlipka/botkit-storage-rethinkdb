@@ -1,0 +1,29 @@
+{
+  "name": "botkit-storage-rethinkdb",
+  "version": "0.0.0",
+  "description": "A RethinkDB driver for Botkit storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvlipka/botkit-storage-rethinkdb.git"
+  },
+  "keywords": [
+    "botkit",
+    "rethinkdb",
+    "botkit-storage"
+  ],
+  "author": "Nelson Cash (http://nelsoncash.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvlipka/botkit-storage-rethinkdb/issues"
+  },
+  "homepage": "https://github.com/mvlipka/botkit-storage-rethinkdb#readme",
+  "dependencies": {
+    "rethinkdb": "2.3.2",
+    "mocha": "2.5.3",
+    "chai": "3.5.0"
+  }
+}
